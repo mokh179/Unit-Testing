@@ -53,5 +53,14 @@ namespace services
             int role = u.roleID;
             return role;
         }
+
+        public bool test(string user, string pass)
+        {
+            user u = _db.Users.FirstOrDefault(a => a.Username == user && a.Password == pass);
+            if (u != null)
+                return true;
+            else 
+                return false;
+        }
     }
 }

@@ -12,5 +12,6 @@ namespace services
         T Edit(T obj);
 
         T Addnew(T obj);
+         bool test(string user, string pass);
     }
 }

@@ -6,7 +6,7 @@ using System.Text;
 
 namespace services
 {
-    class RolesMoc:IOperations<role>
+   public class RolesMoc:IOperations<role>
     {
         private apiCon _db;
 
@@ -44,6 +44,11 @@ namespace services
         public role getByID(int id)
         {
             return _db.Roles.FirstOrDefault(a => a.RoleID == id);
+        }
+
+        public bool test(string user, string pass)
+        {
+            throw new NotImplementedException();
         }
     }
 }

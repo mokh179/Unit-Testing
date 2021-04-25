@@ -26,6 +26,13 @@ namespace Model
             modelBuilder.Entity<userroles>().HasData(
             new userroles { ID = 1, userID = 1, roleID = 1 });
         }
-        
+        public apiCon()
+        {
+
+        }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlServer("server=(LocalDb)\\MSSQLLocalDB;Database=UT;trusted_connection=true");
+        }
     }
 }
