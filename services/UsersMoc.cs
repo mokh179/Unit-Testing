@@ -47,5 +47,11 @@ namespace services
             return _db.Users.FirstOrDefault(x => x.ID == id);
             //return _db.Users.Find(id);
         }
+        public int getRole(int id)
+        {
+            userroles u = _db.Userroles.Find(id);
+            int role = u.roleID;
+            return role;
+        }
     }
 }

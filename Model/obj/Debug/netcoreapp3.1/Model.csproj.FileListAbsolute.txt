@@ -9,3 +9,4 @@ D:\ITI\Unit testing\apiUT\Model\obj\Debug\netcoreapp3.1\Model.pdb
 D:\ITI\Unit testing\apiUT\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.json
 D:\ITI\Unit testing\apiUT\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.dev.json
 D:\ITI\Unit testing\apiUT\Model\obj\Debug\netcoreapp3.1\Model.genruntimeconfig.cache
+D:\ITI\Unit testing\apiUT\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache

@@ -9,6 +9,7 @@ namespace Model
     
     public class apiCon:DbContext
     {
+        
         public DbSet<user> Users { get; set; }
         public DbSet<role> Roles { get; set; }
         public DbSet<userroles> Userroles { get; set; }
@@ -25,5 +26,6 @@ namespace Model
             modelBuilder.Entity<userroles>().HasData(
             new userroles { ID = 1, userID = 1, roleID = 1 });
         }
+        
     }
 }

@@ -4,7 +4,7 @@ using System.Text;
 using Model;
 namespace services
 {
-    class userRoles
+  public  class userRoles
 
     {
         private apiCon _db;
@@ -14,12 +14,9 @@ namespace services
             _db = db;
         }
 
-        public string getRole(int id)
-        {
-            userroles u=_db.Userroles.Find(id);
-            string role = u.roleID.ToString();
-            return role;
-        }
+      
+
+
 
     }
 }
