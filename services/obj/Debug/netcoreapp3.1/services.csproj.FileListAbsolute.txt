@@ -1,0 +1,12 @@
+D:\ITI\Unit testing\apiUT\services\obj\Debug\netcoreapp3.1\services.csprojAssemblyReference.cache
+D:\ITI\Unit testing\apiUT\services\obj\Debug\netcoreapp3.1\services.AssemblyInfoInputs.cache
+D:\ITI\Unit testing\apiUT\services\obj\Debug\netcoreapp3.1\services.AssemblyInfo.cs
+D:\ITI\Unit testing\apiUT\services\obj\Debug\netcoreapp3.1\services.csproj.CoreCompileInputs.cache
+D:\ITI\Unit testing\apiUT\services\bin\Debug\netcoreapp3.1\services.deps.json
+D:\ITI\Unit testing\apiUT\services\bin\Debug\netcoreapp3.1\services.dll
+D:\ITI\Unit testing\apiUT\services\bin\Debug\netcoreapp3.1\services.pdb
+D:\ITI\Unit testing\apiUT\services\bin\Debug\netcoreapp3.1\Model.dll
+D:\ITI\Unit testing\apiUT\services\bin\Debug\netcoreapp3.1\Model.pdb
+D:\ITI\Unit testing\apiUT\services\obj\Debug\netcoreapp3.1\services.csproj.CopyComplete
+D:\ITI\Unit testing\apiUT\services\obj\Debug\netcoreapp3.1\services.dll
+D:\ITI\Unit testing\apiUT\services\obj\Debug\netcoreapp3.1\services.pdb
